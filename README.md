@@ -11,3 +11,6 @@ scrapy crawl bilibili
 
  your_profile/bilibili/rank.csv
 
+### reference
+https://www.w3school.com.cn/xpath/xpath_examples.asp
+https://scrapy-chs.readthedocs.io/zh_CN/latest/intro/overview.html
